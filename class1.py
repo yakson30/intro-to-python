@@ -63,7 +63,13 @@ dict
 set
 complex
 
+word = str('i am a boy')
+newWord = word + '' + str('and also a programmer')
 
+print(newWord)
+
+sentence = 'i love tech'
+print(sentence[0:])
 
 
 
